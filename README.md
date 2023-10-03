@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oreotamish&label=Profile%20views&color=0e75b6&style=flat" alt="oreotamish" /> </p>
 
-- 🌱 I’m currently learning **Frontend, DevOps, GoLang**
+- 🌱 I’m currently learning **Backend, DevOps, GoLang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
