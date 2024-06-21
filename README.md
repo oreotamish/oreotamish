@@ -6,7 +6,7 @@
 <a href="https://dev.to/oreotamish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oreotamish" height="30" width="40" /></a>
 <a href="https://twitter.com/tamishsinha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamishsinha1" height="30" width="40" /></a>
 <a href="https://instagram.com/tamish.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamish.1" height="30" width="40" /></a>
-<a href="https://medium.com/@sinhatamish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinhatamish" height="30" width="40" /></a>
+<a href="https://medium.com/@tamish.sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinhatamish" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sinhatamish/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sinhatamish/profile" height="30" width="40" /></a>
 </p>
 
