@@ -1,15 +1,71 @@
 <h1 align="center">Hi 👋, I'm Tamish Sinha</h1>
-<h3 align="center"></h3>
+<p align="center">Backend Engineer · Building cool things</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/oreotamish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oreotamish" height="30" width="40" /></a>
-<a href="https://twitter.com/tamishsinha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamishsinha1" height="30" width="40" /></a>
-<a href="https://instagram.com/tamish.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamish.1" height="30" width="40" /></a>
-<a href="https://medium.com/@tamish.sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinhatamish" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sinhatamish/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sinhatamish/profile" height="30" width="40" /></a>
+## Connect with me
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/oreotamish)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamishsinha1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamish.1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tamish.sinha)
+
+### Distributed Architecture
+![Microservices](https://img.shields.io/badge/Microservices-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Apache Kafka](https://img.shields.io/badge/Kafka-0B1120?style=for-the-badge&logo=apachekafka)
+![BullMQ](https://img.shields.io/badge/BullMQ-0B1120?style=for-the-badge&logo=redis&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Redis_Streams-0B1120?style=for-the-badge&logo=redis)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0B1120?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message_Queues-0B1120?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+### Databases & Search
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1120?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-0B1120?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-0B1120?style=for-the-badge&logo=mysql)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-0B1120?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0B1120?style=for-the-badge&logo=elasticsearch)
+![TigerBeetle](https://img.shields.io/badge/TigerBeetle-0B1120?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### Infra & Platform Engineering
+![Docker](https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1120?style=for-the-badge&logo=kubernetes)
+![Istio](https://img.shields.io/badge/Istio-0B1120?style=for-the-badge&logo=istio)
+![Nginx](https://img.shields.io/badge/Nginx-0B1120?style=for-the-badge&logo=nginx)
+![AWS](https://img.shields.io/badge/Amazon_AWS-0B1120?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0B1120?style=for-the-badge&logo=linux)
+![Prometheus](https://img.shields.io/badge/Prometheus-0B1120?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-0B1120?style=for-the-badge&logo=grafana)
+
+---
+
+### Monorepos & Tooling
+![Nx](https://img.shields.io/badge/Nx-0B1120?style=for-the-badge&logo=nx)
+![Lerna](https://img.shields.io/badge/Lerna-0B1120?style=for-the-badge&logo=lerna)
+![Turborepo](https://img.shields.io/badge/Turborepo-0B1120?style=for-the-badge&logo=turborepo)
+![Moonrepo](https://img.shields.io/badge/Moonrepo-0B1120?style=for-the-badge&logo=moonrepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-0B1120?style=for-the-badge&logo=pnpm)
+
+---
+
+### CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1120?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-0B1120?style=for-the-badge&logo=jenkins)
+![CI/CD Pipelines](https://img.shields.io/badge/CI/CD-0B1120?style=for-the-badge&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git)
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oreotamish&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oreotamish&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oreotamish&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
